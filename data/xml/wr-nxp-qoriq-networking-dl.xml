@@ -1,0 +1,3 @@
+    <project name="external/yocto/git.freescale.com.ppc.sdk.dpdk" remote="base" path="layers/wr-nxp-qoriq-networking-dl/git/git.freescale.com.ppc.sdk.dpdk.git" bare="True"/>
+    <project name="external/yocto/git.freescale.com.ppc.sdk.ovs-dpdk" remote="base" path="layers/wr-nxp-qoriq-networking-dl/git/git.freescale.com.ppc.sdk.ovs-dpdk.git" bare="True"/>
+    <project name="external/yocto/git.freescale.com.ppc.sdk.dpdk-extras" remote="base" path="layers/wr-nxp-qoriq-networking-dl/git/git.freescale.com.ppc.sdk.dpdk-extras.git" bare="True"/>
