@@ -6,3 +6,4 @@
     <project name="external/yocto/www.aleph1.co.uk.yaffs2" remote="base" path="layers/wr-kernel-dl/git/www.aleph1.co.uk.yaffs2" bare="True"/>
     <project name="external/yocto/github.com.xemul.criu" remote="base" path="layers/wr-kernel-dl/git/github.com.xemul.criu.git" bare="True"/>
     <project name="external/yocto/git.freescale.com.ppc.sdk.u-boot" remote="base" path="layers/wr-kernel-dl/git/git.freescale.com.ppc.sdk.u-boot.git" bare="True"/>
+    <project name="external/yocto/github.com.vcrhonek.hwdata" remote="base" path="layers/wr-kernel-dl/git/github.com.vcrhonek.hwdata.git" bare="True"/>
