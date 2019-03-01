@@ -82,5 +82,5 @@
     <project name="external/yocto/sourceware.org.git.systemtap" remote="base" path="layers/oe-core-dl-2.2/git/sourceware.org.git.systemtap.git" bare="True"/>
     <project name="external/yocto/anongit.freedesktop.org.xorg.driver.xf86-video-intel" remote="base" path="layers/oe-core-dl-2.2/git/anongit.freedesktop.org.xorg.driver.xf86-video-intel" bare="True"/>
     <project name="external/yocto/anonscm.debian.org.collab-maint.xf86-video-omapfb" remote="base" path="layers/oe-core-dl-2.2/git/anonscm.debian.org.collab-maint.xf86-video-omapfb.git" bare="True"/>
-    <project name="external/yocto/github.com.intel.ledmon.git" remote="base" path="layers/oe-core-dl-2.2/git/github.com.intel.ledmon.git" bare="True"/>
-    <project name="external/yocto/git.kernel.org.pub.scm.utils.mdadm.mdadm.git" remote="base" path="layers/oe-core-dl-2.2/git/git.kernel.org.pub.scm.utils.mdadm.mdadm.git" bare="True"/>
+    <project name="external/yocto/github.com.intel.ledmon" remote="base" path="layers/oe-core-dl-2.2/git/github.com.intel.ledmon.git" bare="True"/>
+    <project name="external/yocto/git.kernel.org.pub.scm.utils.mdadm.mdadm" remote="base" path="layers/oe-core-dl-2.2/git/git.kernel.org.pub.scm.utils.mdadm.mdadm.git" bare="True"/>
